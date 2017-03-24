@@ -1,0 +1,17 @@
+<project name="Myproject" default="finalizeit" basedir=".">
+ <description>
+     	this is test my project to be build on jenkins
+ </description>	
+ <target name="init" >
+  	<echo message="We are initailizing the project here" />
+ </target>
+ 
+ <target name="executeit" depends="init" >
+	<echo message="Exceuting the task here" />
+ </target>
+
+ <target name="finalizeit" depends="executeit" >
+        <echo message="We are finalizing the task here" />
+ </target>
+
+</project>

@@ -1,6 +1,0 @@
-total 4
-drwxrwxr-x. 3 tomcat tomcat  73 Mar 22 02:06 .
-drwxrwxr-x. 7 tomcat tomcat  90 Mar 22 02:00 ..
-drwxrwxr-x. 8 tomcat tomcat 220 Mar 22 02:06 .git
--rw-rw-r--. 1 tomcat tomcat  35 Mar 22 02:00 intialtestfile.txt
--rw-rw-r--. 1 tomcat tomcat   0 Mar 22 02:06 masterversionfile.txt
